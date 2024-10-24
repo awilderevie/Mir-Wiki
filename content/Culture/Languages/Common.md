@@ -1,0 +1,1 @@
+Common, also known as Mirth, is the most widely spoken language throughout [[Mir]]. It is designated as the primary language of the [[Divine Empire]].

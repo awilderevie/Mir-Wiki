@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Mir wiki!
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the wiki for [[Mir]], the homebrew Pathfinder 2e world of the DPRPF2ETTRPG!

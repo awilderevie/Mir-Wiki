@@ -1,0 +1,1 @@
+A leshy is a plant or other organism given a soul through primal magic. While their souls are functionally immortal, leshies inhabit organic bodies, and their 'life cycle' ends and begins by reincarnation in a new plant body. 

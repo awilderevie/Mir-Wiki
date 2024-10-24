@@ -1,0 +1,3 @@
+Astrana is a massive super-continent on [[Mir]], surrounded by ocean. The coastal and outer regions of Astrana are rich with a remarkable variety of life and environments, as well as home to many pockets of civilization. The massive landmass’ interior, however, is an incomprehensibly vast desert that resists most attempts to establish civilization in the desert, with [[Meldirias|one major exception]]. 
+
+The wide open ocean and lack of distributed landmass makes for an incomprehensibly powerful storm generator. These massive storms - mega-monsoons - batter the coasts of Astrana and make it difficult for cities to develop and flourish on the parts of coastline they arrive in.

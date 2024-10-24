@@ -1,0 +1,6 @@
+The willspawn are known by many names, but in [[Common]] they are mainly known as gods, spirits, and demons. Despite their [[Divinity (The Will)|divine]] nature, they are neither all-seeing nor all–knowing; they are simply born of [[Divinity (The Will)|the will]] with abilities suiting their conceptual root. 
+
+The value judgments (good, neutral/gray, and evil) of concepts and ideas within the will are what dictate their willspawn’s nature. The willspawn of ideas deemed 'good' are seen as godly, and are known as gods. The willspawn of ideas with a more complicated sentiment - the grays of life - are known as spirits. Those deemed 'bad', demons. There's a [[sun god]], a [[death demon]], and everything in between. If there is a shift in the majority opinion, feeling, or knowledge about a concept, this can change both the potency of the corresponding willspawn's abilities and how they appear in the world. 
+
+While gods and demons can be incredibly influential and exert their will on the world at large, they are still living things occupying the world of [[Mir]]. Some hide from the [[People of Mir|people of Mir]] or haven't been seen in a long time, but a willspawn has never been observed dying in all of recorded [[history]].
+
