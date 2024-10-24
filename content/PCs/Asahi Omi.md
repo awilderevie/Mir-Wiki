@@ -1,0 +1,1 @@
+Asahi Omi is a [[kitsune]] sorcerer.
