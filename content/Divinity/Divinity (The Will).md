@@ -2,6 +2,6 @@ In the world of [[Mir]], divinity is directly tied to the collective unconscious
 
 These manifestations of concepts in the will are divine beings, much like classical human mythology from our world: gods, spirits, and demons. These divine beings are immortal, but their power and vitality in the world are tied to their presence and perception in the collective unconscious.  The divines born of the will are all [[Willspawn|willspawn]], but are colloquially called gods, spirits, or demons. 
 
-Divinity does not only touch the willspawn, though; resounding exaltation or scorn of a mortal being can imbue them with divine power. This is how adventurers and nefarious individuals alike become more powerful: as their legend grows in the will, they gain divine essence. Each and every mortal has the capacity for ascending or descending towards divinity through the will. 
+Divinity does not only touch the willspawn, though; resounding exaltation or scorn of a mortal being can imbue them with divine power. As the legend of an individual grows in the hearts and minds of the many, they are imbued with divine essence. 
 
-Additionally, the will itself works slowly. A drastic shift in opinion still takes time to change a divine’s form or power. The will is more an average of feelings and perceptions from the collective unconscious over time than an immediate tracker of sentiment.
+Additionally, the will itself works slowly. A drastic shift in opinion still takes time to change a divine’s form or power. The will is more an average of feelings and perceptions from the collective unconscious over time than an immediate reflection of sentiment.
