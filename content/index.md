@@ -1,9 +1,9 @@
 ---
-title: Welcome to the Mir wiki!
+title: Welcome to the Wembelbat Historical Archive of Mir!
 ---
-*Welcome, dear reader! My name is [[Shelby Wembelbat]], and I am the current keeper of the [[Wembelbat Historical Archive]], like my mother before me, and her sister before her, and her mother before her, and her aunt before her, and so on.*
+*Hello, dear reader! My name is [[Shelby Wembelbat]], and I am the current keeper of the [[Wembelbat Historical Archive]], like my mother before me, and her sister before her, and their mother before her, and her aunt before her, and so on.*
 
-*The Wembelbat Historical Archive serves as a living record of the world of [[Mir]], and we gather all kinds of documents from all over the world! We depend on donations of scripts, texts, documents, songs, poems, and oral histories from individuals the world round, as well as organizations like the [[Order of the Ghost Orchid]] who seek out rare information and aim to preserve it in the historical record.*
+*The Wembelbat Historical Archive serves as a living record of the world of [[Mir]], and we gather all kinds of documents from all over the world! We depend on donations of scripts, texts, documents, songs, poems, and oral histories from individuals the world round, as well as organizations like the [[Order of the Ghost Orchid]] who seek out rare information and aim to preserve it in the historical record. In turn, we make tomes that document the very nature of our world and its history!*
 
 *An important note: we refer to [[willspawn]] by their [[Common]] names in all of our informational volumes for consistency. Regional names and widely used titles will be highlighted in the tomes specific to a given willspawn. Of course, any artistic depiction of a particular willspawn preserves the reference as written in the source text. We have no intention of erasing or rewriting the multitudinous facets of history - only preserving it.*
 
@@ -12,7 +12,7 @@ title: Welcome to the Mir wiki!
 *\- Shelby H. Wembelbat, Keeper of the W.H.A., 4527 A.R.* 
 ## Featured Tome
 **[[People of Mir]]**
-## Recently Updated
+## Recently Updated Tomes
 [[Tengu]],
 [[Leshy]],
 [[Tanuki]],
@@ -23,7 +23,7 @@ title: Welcome to the Mir wiki!
 [[History]],
 [[Mir]],
 [[Astrana]]
-## Coming Soon...
+## Tomes Coming Soon...
 [[Miria]],
 [[Ilana Erlich]],
 [[Cassandra Erlich]],
