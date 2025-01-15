@@ -1,0 +1,6 @@
+---
+aliases:
+  - orc
+  - orcs
+  - Orcs
+---

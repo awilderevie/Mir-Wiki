@@ -1,3 +1,7 @@
+---
+aliases:
+  - tengu
+---
 Tengu are crow-like humanoids that have started spreading from their ancestral homeland in the past few centuries. They are gregarious and resourceful people who collect knowledge and treasures alike. Tengu are survivalists and conversationalists, equally at home living off the wilderness and finding a niche in dense cities. They accumulate knowledge, tools, and companions, adding them to their collection as they travel.
 ## Physical Description
 Tengu have many avian characteristics. Their faces are tipped with sharp beaks and their scaled forearms and lower legs end in talons. As closed footwear tends to fit poorly unless custom made, many tengu wear open sandals or simply go barefoot. Tengu are rarely more than 5 feet tall, and they are even lighter than their smaller frames would suggest, as they have hollow bones. A small number of tengu have vestigial wings.

@@ -1,0 +1,6 @@
+---
+aliases:
+  - elf
+  - elves
+  - Elves
+---

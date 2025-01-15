@@ -1,3 +1,7 @@
+---
+aliases:
+  - the will
+---
 In the world of [[Mir]], divinity is directly tied to the collective unconscious of all sentient life. The more weight an idea or a symbol holds in the collective unconscious, the more potent its manifestation. The collective unconscious has gone by many names over the millennia, but in [[Common]], it is known as the will, for what the collective unconscious wills becomes reality.
 
 These manifestations of concepts in the will are divine beings, much like classical human mythology from our world: gods, spirits, and demons. These divine beings are immortal, but their power and vitality in the world are tied to their presence and perception in the collective unconscious.  The divines born of the will are all [[Willspawn|willspawn]], but are colloquially called gods, spirits, or demons. 

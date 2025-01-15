@@ -1,3 +1,9 @@
+---
+aliases:
+  - leshy
+  - leshies
+  - Leshies
+---
 A leshy is a plant or other organism given a soul through primal magic. While their souls are functionally immortal, leshies inhabit organic bodies, and their life cycle ends and begins by reincarnation in a new plant body. As guardians and emissaries of the environment, leshies are born or created when a skilled druid or other master of primal magic conducts a ritual to create a suitable vessel, and a wandering fey soul or the latent consciousness within an organic body chooses that vessel to be their temporary home. Leshies are self-sufficient from the moment the ritual ends, though it isn't uncommon for leshies to maintain lifelong bonds with their creators. Many leshies relish the opportunity to interact with the physical world. While most leshy spirits are ancient, they rarely recall past lifetimes and see their new life as a chance to experience the wonders of the world once more.
 ## Physical Description
 Leshies are as varied as the material used to create their vessels, usually appearing as a bizarre mishmash of various plants or fungi. Their bodies are vaguely humanoid in shape, with numerous characteristics of the plant or fungus from which they were made. A typical leshy is about 3 feet tall. Leshies begin their lives as adults and don't age.

@@ -1,0 +1,6 @@
+---
+aliases:
+  - dwarf
+  - dwarves
+  - Dwarves
+---

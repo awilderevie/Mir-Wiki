@@ -1,3 +1,7 @@
+---
+aliases:
+  - history
+---
 One of the most significant events in [[Mir]]’s history is when [[Miria]] herself brought water and life to the Great Desert at the center of [[Astrana]], widely known as the [[Rebirth]]. This transformation at the very heart of Astrana brought reverence for the then-lesser known Miria and a new unity to the mostly disconnected (so-called) [[Prehistoric Kingdoms|prehistoric kingdoms]] some four and a half thousand years ago; it was the rebirth of the [[People of Mir|people of Mir]] as whole. 
 
 With her growing influence and ambition, Miria then established the first [[Divine Imperial Army]]. She sent them across the lands in a [[Great Crusade]] to abolish slavery and child labor, and to liberate all sentient life they could find on Astrana from the various cruel practices used by those in power to stay in power. Historians say Miria used the resulting power vacuum to further establish her influence in all of the kingdoms, sending a deluge of loyal devotees and lesser willspawn to help fix the resulting economic and agricultural collapse. These devotees of Miria built more humane practices in the old ones’ stead, while naturally also building in heavy taxation for the divine empire. 

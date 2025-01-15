@@ -1,0 +1,6 @@
+---
+aliases:
+  - goblin
+  - goblins
+  - Goblins
+---

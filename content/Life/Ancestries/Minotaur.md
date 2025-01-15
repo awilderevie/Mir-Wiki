@@ -1,3 +1,9 @@
+---
+aliases:
+  - minotaur
+  - minotaurai
+  - Minotaurai
+---
 Minotaurai are massive, horned, bovine humanoids who are said to have been originally created by a divine curse. They have lived underground all throughout [[Astrana]] since their creation, as they were considered monstrous in nature for thousands of years. In the past few hundred years, they have integrated more with the rest of the people of Mir, but they are still commonly maligned and assumed to be capable of little more than violence.
 ## Physical Description
 Minotaurai are tall, bulky humanoids with the bovine features such as horns, hooves, and elongated faces. Their fur patterns are frequently monotone in deep browns or blacks, though white or gray aren't uncommon. Though the large size of a minotaur might cause one think they are clumsy, the truth is quite the opposite. Minotaur hooves rest on a delicate balance point, making their footfalls quiet and precise. However, when there is a need to be heard, the steps of a minotaur can fall like thunder.  

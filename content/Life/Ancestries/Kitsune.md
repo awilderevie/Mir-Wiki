@@ -1,3 +1,7 @@
+---
+aliases:
+  - kitsune
+---
 Kitsune are an innately magical, notoriously charismatic people born with the ability to shapechange. They can shapechange between two forms: a fox-like humanoid, and one that depends on their origins. Kitsune raised in isolation or in their true form are generally only capable of shapechanging into an actual fox!
 ## Physical Description
 Kitsune are humanoid fox-like people with alert vulpine ears, pointed snouts, and short, semi-retractable claws on their fingers and toes. Their fur is dense, and is usually red, tan, black, or white in color with counter-shading similar to actual foxes. Kitsune have bushy tails that grow in number as they hone their innate magical abilities, up to as many as nine.

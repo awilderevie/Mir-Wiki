@@ -1,3 +1,7 @@
+---
+aliases:
+  - tanuki
+---
 Tanuki are raccoon dog-like humanoid shapechangers. Tanuki are renowned tricksters and deceivers who primarily live in the remote northern mountains of Astrana. They delight in pranks and practical jokes, especially those that allow them to take the high and mighty down a notch and show them what life is like for everyone else. 
 ## Physical Description
 Tanuki are short humanoids who resemble bipedal raccoon dogs, usually growing between 3 and 4 feet tall. They tend to have rotund bodies, with large bellies that appear even wider due to their thick fur. A tanuki's face is likewise round, with wide-set, alert eyes outlined within a dark mask of fur. Tanuki have a single bushy tail that they take great pride in and to which they ascribe their powers. These qualities together give tanuki a strong cultural appreciation for rounded shapes over sharp angles, such as daruma dolls, circular doors, and the moon.  
