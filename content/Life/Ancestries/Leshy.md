@@ -14,4 +14,3 @@ Leshies are grouped into categories akin to ethnicities, but these are not conne
 ## Beliefs
 Leshies' beliefs generally revolve around the natural world, and their [[fey]] nature means most leshies are generally indifferent towards the [[willspawn]] as an expression of faith, with exception of the nature spirit, [[Nevira]]. Some do find an interest in other modern expressions of faith though, especially in other nature spirits like [[Dwir]], the ocean spirit, and [[Leshos]], the plant spirit.
 ## Other Information
-It is unclear whether the ritual to create leshies is what inspired the form of Leshos, or whether it was a ritual created to emulate Leshos' form.

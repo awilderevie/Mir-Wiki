@@ -1,2 +1,0 @@
-![[OtariMap.jpg]]
-

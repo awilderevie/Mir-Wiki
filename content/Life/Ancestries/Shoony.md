@@ -1,0 +1,6 @@
+---
+aliases:
+  - shoony
+  - shoonies
+  - Shoonies
+---
