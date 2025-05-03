@@ -1,0 +1,6 @@
+---
+aliases:
+  - hungerseed
+  - hungerseeds
+  - Hungerseeds
+---

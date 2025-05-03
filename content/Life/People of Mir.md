@@ -7,7 +7,7 @@ The people of [[Mir]] are remarkably diverse in their biology, origins, magical 
 - [[Hobbit (Halfling)|Hobbits (Halflings)]]: a distant relative of humanity, hobbits are similarly adaptable but are said to be lacking the same fiery ambition. They commonly live amongst humans, and are welcomed to cohabitate among other peoples due to their easygoing and peaceful nature.
 - [[Gnome|Gnomes]]: humans that became [[fey|fey-touched]] a long time ago, and have been affected by their magic as a people ever since. Gnomes most commonly live alongside humans or the fey.
 - [[Goblin|Goblins]]: a broadly maligned group of short humanoids with oversized heads. Unwelcome in all but the underbelly of most cities, the majority of goblins live tribally or in small towns throughout the lands of [[Astrana]].
-- [[Orc|Orcs]]: tall and strong humanoids, with an insular culture shaped by their capacity for great violence. While orcs are as versatile and adaptable as humans in their biology, their culture makes orcs a rare sight outside hired armies and mercenary work.
+- [[Orc|Orcs]]: tall and strong humanoids, with an insular culture reputedly shaped by their capacity for great violence. While orcs are as versatile and adaptable as humans in their biology, their culture makes orcs a rare sight outside hired armies and mercenary work.
 - [[Leshy|Leshies]]: plants given souls by primal magic. Leshies are mostly as averse to civilization as the rest of the fey, so most live in the fey wilds, deep in nature, or in their plant bodies' natural habitats, but some brave civilization to learn of the people-made wonders of the world.
 ### Lesser Populations
 *The people of Mir with smaller populations than the above, sorted alphabetically.*

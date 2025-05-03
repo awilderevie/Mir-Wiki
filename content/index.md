@@ -23,16 +23,16 @@ title: Welcome to the Wembelbat Historical Archive of Mir!
 [[Ilana Erlich]],
 [[Cassandra Erlich]],
 [[Elwin Aluianti]],
-[[Otari]]
-## Tomes Coming Soon...
+[[Otari]],
 [[Lizzy and Fizzy]],
-[[Dragon]],
-[[Ivrand]],
+[[Dragons]],
+[[Sylvia Townsend (Captain Goraco)|Sylvia]],
+[[Ivrand]]
+## Tomes Coming Soon...
 [[Plaitos Forest]],
 [[Nali]],
 [[Naya]],
 [[Lady Viessa]],
-[[Sylvia]],
 [[Fey]],
 [[Milue]],
 [[Aequius]],
