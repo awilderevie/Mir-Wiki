@@ -3,14 +3,18 @@ aliases:
   - history
 ---
 ## The Rebirth
+*Year 0*
+
 One of the most significant events in [[Mir]]’s history was when [[Miria]] herself brought water and life to the [[Great Desert]] at the center of [[Astrana]], in a miraculous event known as the [[Rebirth]]. This transformation at the very heart of Astrana brought a new unity to the disparate [[Prehistoric Kingdoms|prehistoric kingdoms]] just over a thousand years ago. It was the rebirth of the [[Ancestries|people of Mir]] as whole. 
 ## The Great Crusades
-*Year 0 through ~200 AR*
+*Year 1 through ~200 AR*
+
 With her growing influence and ambition, Miria then established the first [[Divine Imperial Army]]. She sent them across the lands of [[Astrana]] in the [[Great Crusades]] to abolish the cruelest practices of the world's rulers: tyranny, slavery, and child labor. Miria aimed to liberate all sentient life from the oppression designed by those in power to stay in power. The Great Crusades are believed to have taken place over two hundred years.
 
 Empire historians say Miria used the resulting power vacuum to further establish her influence in all of the kingdoms, sending a deluge of loyalists to stopgap the resulting economic and agricultural collapse. These devotees built more humane practices in the old ones’ stead, while planting the seeds of intense loyalty to the [[Divine Empire]] and worship of the Mother.
 ## The Golden Age of the Empire
 *Year ~200 through 703 AR*
+
 Under the love, protection, and guidance of the Mother, the realms of Astrana thrived. The land once known as the Great Desert became the [[Heartlands]], which saw a burst of life and civilization as people came from the [[The Reaches|Reaches]] inward to settle lands that were once barren and inhospitable. Miria founded the capital of the Empire, [[Meldirias]], in the epicenter of the Heartlands, whilst the Empire supported the development of a vast number of other settlements. It was, as intended, a world reborn. This era is known as the [[Golden Age of the Empire]].
 
 Miria's unification of the people of the world encountered no small number of challenges, however; conflict broke out anew throughout the realms of the world, as new wars began, new entities sought power, new territory bred new conflict, and enterprising [[Willspawn|willspawn]] capitalized on the collapse of old power structures. In this aftermath of the Great Crusade, Miria reformed the Divine Imperial Army as the [[The Watch|Watch]], an imperial force that watched over the peoples throughout Astrana as so-called peacekeepers. She also brought many gods and spirits into power and collaboration with the Empire, such as [[Aequius]], who has played a significant part in the Divine Empire ever since. 
@@ -20,6 +24,7 @@ Over the following centuries, alongside the growing prosperity of the realms, Mi
 They say it was the tears of but one small child which finally tore Miria's heart asunder, and shortly thereafter, she dismantled the [[The Watch|Watch]]. The Watch, however, was no small population: thousands upon thousands of trained soldiers found themselves with no chain of command or higher loyalty. While some stayed loyal to the Empire and went home to their places of origin or settled down where they served, many others had lived their whole lives serving as a paramilitary force, and found themselves in the employment of various realms as mercenaries or even as parts of new wholesale armies. So began the [[Age of Despair]].
 ## Age of Despair
 *Year 703 through ~820 AR*
+
 Though the dissemination of the Watch's dissolvement took time to spread across the lands, even through its own ranks, the power-hungry of the world took little time to capitalize on it. The [[Divine Imperial Army]] was no more, and their forces had no orders. Some realms gained whole armies. Others expanded. Conflict that had been bubbling up under the Watch erupted, and the lands of Astrana fell into war. Miria disappeared from the public eye. The great demons of the world rejoiced, as the fears and horrors which fueled them took hold in the people of the world to a degree unseen in a thousand years. War, conquest, famine, and their ilk ran rampant. 
 
 Cities were laid to ruin. Old knowledge was lost. The progress of sentient life faced its first major setback under the rule of the Empire. Some felt that Miria had abandoned them. Many others begged for her return. The disbanding of the Watch made many question whether the Empire itself was gone. Meldirias, the capital of the Empire fell - not to raiders or demons, but neglect.
@@ -27,12 +32,14 @@ Cities were laid to ruin. Old knowledge was lost. The progress of sentient life 
 Darkness enveloped the world for a hundred years, until Miria returned. 
 ## The Divine Resurgence
 *Year 820 through ~850 AR*
+
 Miria enlisted the help of many gods and great spirits to restore the might of the Empire, to face the resurgence of the great demons, and to put a quick stop to the turmoil which had enveloped Astrana in her absence. The conflict that followed was a display of divine power unlike any seen in recorded history, and reinvigorated the faith of people all across Astrana. Though Miria purportedly planned for another great Crusade and the reformation of the Divine Imperial Army, it was unnecessary, as divine force proved capable of confronting problems of any scale. The great demons proved the greatest trouble, but are said to have submitted to overwhelming force.
 
 Many historians believe that this divine resurgence is best understood as a rebirth of the Empire itself, as it embraced the involvement of the willspawn. The structure of the Empire shifted from a matriarchy consisting mostly of mortals to a divine hierarchy. This is the root of Miria's association with butterflies. Many describe her disappearance during the Age of Despair as having entered a cocoon and returning during the Resurgence with a new divine splendor.
 
 ### The Age of Heroes
 *Year 850 through present day*
+
 With Meldirias restored to its former glory, the Mother returned, and the Empire transformed, Miria promised the rulers of the world that there would be no second Imperial Army or Watch. The protection of a realm is up to its people in the modern era. She established clear rules for the realms of the Empire that would invoke Imperial retribution as in the Resurgence: no slavery, no genocide, no conquering for conquering's sake, no [[Heresy|heresy]], and no tyrants. She recognized that her children were bound to have conflict, as is the nature of people, but established that the Empire shall only intervene when conflict crossed a certain destructive threshold. She wishes to protect her children, but also to give them the space to work conflict out amongst themselves.
 
 Such are the conditions that led to the so-called modern Age of Heroes. Not all violence in this world is committed by people of realms against others; there are monsters, great beasts, powerful evils, and of course, demons. While many realms have developed and enlisted forces to protect their lands and people, danger lurks in the dark, and the heroes of the world take it upon themselves to go forth and face it.
