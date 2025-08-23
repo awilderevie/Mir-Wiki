@@ -1,0 +1,1 @@
+Edritia is a realm in the northwest of the [[Eastern Reach]] which borders the [[Heartlands]].

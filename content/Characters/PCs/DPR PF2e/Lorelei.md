@@ -1,1 +1,0 @@
-Lorelei is a [[Yaoguai|yaoguai]] kineticist who was born as an otter.

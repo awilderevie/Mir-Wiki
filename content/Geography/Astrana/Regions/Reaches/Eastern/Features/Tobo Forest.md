@@ -1,0 +1,1 @@
+Tobo Forest is a small forest in the [[Eastern Reach]] north of [[Otari]] and [[Lake Roto]], and is home to a long-forgotten temple of [[Milue]].

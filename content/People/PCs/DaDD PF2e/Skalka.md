@@ -1,0 +1,1 @@
+Skalka is an [[orc]] barbarian haunted by spirits, with little known about his past.

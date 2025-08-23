@@ -18,6 +18,6 @@ Tanuki love celebration and will hold any number of parties for even the smalles
 ## Beliefs
 Tanuki generally use their powers to humble the rich and snobby; at the very least, they create illusions with no more evil in their hearts than a simple joke (or a free meal taken from one who can afford it), rather than acting out of malice. However, there are some tanuki who do harbor resentment, which can take root and fester in their hearts.
 
-Tanuki worship a variety of willspawn, often on a community-wide basis. Naturally, many worship [[Olu-Olu]], the spirit of indulgence and celebration. Some worship [[Milue]], the goddess of the moon, and others are devout followers of [[Nesta]], the spirit of trickery and mischief.
+Tanuki worship a variety of willspawn, often on a community-wide basis. Naturally, many worship [[Olu-Olu]], the god of indulgence and celebration. Some worship [[Milue]], the spirit of the moon, and others are devout followers of [[Nesta]], the demon of trickery and mischief.
 ## Other Information
 In the northern kingdoms, tanuki are often depicted as a scapegoat for all sorts of ghostly occurrences and unexplainable problems.

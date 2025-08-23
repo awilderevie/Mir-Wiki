@@ -1,0 +1,3 @@
+The Bloodshore is a famed coastal region of the [[Eastern Reach]] where the [[Ocean|ocean]] is covered in a bioluminescent red algae. It has been known as the Bloodshore for millennia, and has long attracted people with a certain reverence for violence. 
+
+The ancient city of [[Duguan]] was built around the famed gladiator arena on the cliffs overlooking the water. The larger region is also home to several settlements of [[Minotaur|minotaurai]], [[Orc|orcs]], [[Goblin|goblins]], and other people who have been drawn by its reputation.

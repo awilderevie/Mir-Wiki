@@ -1,0 +1,1 @@
+The Naya is an infamous black market acquisition and smuggling organization that is rumored to operate all across [[Astrana]].

@@ -1,0 +1,1 @@
+Telborg is a town of [[Orc|orcs]] on the border of the [[Northern Reach]] and the [[Heartlands]].

@@ -1,0 +1,1 @@
+Lady Viessa seems to be a member of the [[Naya]] high up in their chain of command.

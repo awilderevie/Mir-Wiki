@@ -1,0 +1,1 @@
+Elmricstad is a [[Dwarf|dwarven]] state in the [[Conniog Mountains]]. 

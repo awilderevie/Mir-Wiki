@@ -1,0 +1,1 @@
+The coastline of the [[Gulf of Olasse]] is home to a number of wealthy, populous realms, much like the [[Kalakalan Coast]]. It is named for the dominant power of the region, [[Olasse]]. 

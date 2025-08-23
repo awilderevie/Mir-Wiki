@@ -1,0 +1,1 @@
+Karg is the moniker for a network of thyoths (akin to tribes or nomadic villages) in the wastes of the [[Northern Reach]]. 

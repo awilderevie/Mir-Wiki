@@ -1,0 +1,1 @@
+Lake Roto is a large lake in the northern inland [[Eastern Reach]], south of [[Tobo Forest]] and home to the town of [[Otari]].

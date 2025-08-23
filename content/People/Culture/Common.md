@@ -1,0 +1,1 @@
+Common generally refers to the common tongue of the realms of the [[Divine Empire|Empire]] as its standard [[Languages|language]]. It is also used to denote concepts that are standardized through the many Empire realms, such as the [[Common (Imperial) Calendar|Common Calendar]].

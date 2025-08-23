@@ -1,1 +1,0 @@
-Sudus Paladinus is a [[Minotaur|minotaur]] champion of the god of justice, [[Aequius]]. 

@@ -1,0 +1,1 @@
+Throughout the last thousand years, many children have been brought into the world by Mirian Conception. If a mother wishes to carry a child but not to procreate with another, devout worship of [[Miria]] can result in pregnancy.

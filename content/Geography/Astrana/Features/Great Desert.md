@@ -1,0 +1,3 @@
+The Great Desert is a region that belongs to history, as it was transformed by the [[Rebirth]] into the [[Heartlands]]. It was an incomprehensibly massive desert in northern [[Astrana]]'s interior, inhospitable to most life and civilization. 
+
+While certain portions of the old desert still remain in rain shadows and pockets of land not transformed by the arrival of water in the Heartlands, the vast majority of what was once the Great Desert has been transformed over the course of the last thousand years. 

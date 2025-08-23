@@ -1,1 +1,0 @@
-Mor is a [[Tengu|tengu]] investigator.

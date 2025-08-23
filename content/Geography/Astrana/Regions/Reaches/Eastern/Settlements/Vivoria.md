@@ -1,0 +1,1 @@
+Vivoria is the capital of [[Edritia]], and is situated in its northwestern corner. Vivoria is a major city along the trade corridor between the [[Heartlands]] and the [[Eastern Reach]], and is famed for its academic institutions. 

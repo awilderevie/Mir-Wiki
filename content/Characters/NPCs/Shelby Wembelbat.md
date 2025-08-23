@@ -1,1 +1,0 @@
-*Woman | she/her*

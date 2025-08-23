@@ -1,0 +1,1 @@
+The Northeastern Kingdoms are a group of realms in the northern end of the [[Eastern Reach]] which are all ruled by the Sovereign [[Cassandra Erlich]].
