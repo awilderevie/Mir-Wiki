@@ -1,0 +1,1 @@
+Vehnämeri is a wheat-rich nation in the Northern [[Heartlands]], which had its king murdered by [[Thistle]] in 1025 AR. 

@@ -25,6 +25,6 @@ The Common Calendar also has a 4 day week to represent the stages of life.
 3) Resdey: creation
 4) Aupsday: death
 
-Miria's great [[Rebirth]] began on the day before the spring equinox, so the day between Hiemnox and Verora is known as the [[Rebirth Day]]. In the global north, the spring equinox consequently falls on the first of Verora. The summer solstice commonly happens around the first of Aestora, the autumnal equinox around the first of Audora, and the winter solstice in the beginning of Hiemora. 
+Miria's great [[Rebirth]] began on the day before the spring equinox, so the day between Hiemnox and Verora is known as the [[Rebirth Day]]. In the global north, the spring equinox consequently falls on the first of Verora. The summer solstice usually happens around the first of Aestora, the autumnal equinox around the first of Audora, and the winter solstice in the beginning of Hiemora. 
 
-Despite the close alignment between the calendar year and the astronomical seasons, the Common Calendar considers 1/1 the beginning of spring, 4/1 of summer, 7/1 of autumn, and 10/1 of winter.
+Owing to the close alignment between the calendar year and the astronomical seasons, the Common Calendar considers 1/1 the beginning of spring, 4/1 of summer, 7/1 of autumn, and 10/1 of winter. The months are named in alignment with the seasons.
